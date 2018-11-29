@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 python-3.7.1
-
-=======
-python-3.7.1
->>>>>>> ch-postgresql-db-162268501
